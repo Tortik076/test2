@@ -1,0 +1,7 @@
+C:\Users\Sergey\OneDrive\ИСРП (Кузнецов)\Projects 2\LR1_server\bin\Debug\LR1_server.exe.config
+C:\Users\Sergey\OneDrive\ИСРП (Кузнецов)\Projects 2\LR1_server\bin\Debug\LR1_server.exe
+C:\Users\Sergey\OneDrive\ИСРП (Кузнецов)\Projects 2\LR1_server\bin\Debug\LR1_server.pdb
+C:\Users\Sergey\OneDrive\ИСРП (Кузнецов)\Projects 2\LR1_server\obj\Debug\LR1_server.csproj.AssemblyReference.cache
+C:\Users\Sergey\OneDrive\ИСРП (Кузнецов)\Projects 2\LR1_server\obj\Debug\LR1_server.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\OneDrive\ИСРП (Кузнецов)\Projects 2\LR1_server\obj\Debug\LR1_server.exe
+C:\Users\Sergey\OneDrive\ИСРП (Кузнецов)\Projects 2\LR1_server\obj\Debug\LR1_server.pdb
